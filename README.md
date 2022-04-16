@@ -51,26 +51,26 @@
 
 # 📔 Table of Contents
 
-- [About the Project](#🌟-about-the-project)
+- [About the Project](#-about-the-project)
   <!-- - [Screenshots](#camera-screenshots) -->
-  - [Tech Stack](#👾-tech-stack)
-  - [Features](#🎯-features)
+  - [Tech Stack](#-tech-stack)
+  - [Features](#-features)
     <!-- - [Color Reference](#art-color-reference) -->
     <!-- - [Environment Variables](#key-environment-variables) -->
-- [Getting Started](#🧰-getting-started)
+- [Getting Started](#-getting-started)
   <!-- - [Prerequisites](#bangbang-prerequisites) -->
-  - [Installation](#⚙️-installation)
+  - [Installation](#-installation)
   <!-- - [Running Tests](#test_tube-running-tests)
   - [Run Locally](#running-run-locally)
   - [Deployment](#triangular_flag_on_post-deployment) -->
-- [Usage](#👀-usage)
-- [Plan](#🧭-plan)
-- [Contributing](#👋-contributing)
-  - [Code of Conduct](#📜-code-of-conduct)
-- [FAQ](#❔-faq)
-- [License](#⚠️-license)
-- [Contact](#🤝-contact)
-- [Acknowledgements](#💎-acknowledgements)
+- [Usage](#-usage)
+- [Plan](#-plan)
+- [Contributing](#-contributing)
+  - [Code of Conduct](#-code-of-conduct)
+- [FAQ](#-faq)
+- [License](#-license)
+- [Contact](#-contact)
+- [Acknowledgements](#-acknowledgements)
 
 <!-- About the Project -->
 
