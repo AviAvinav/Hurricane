@@ -18,5 +18,19 @@
     "sourceType": "module"
   },
   "plugins": ["prettier", "react", "@typescript-eslint"],
-  "rules": {}
+  "rules": {
+    "react/react-in-jsx-scope": "off",
+    "react/jsx-filename-extension": [1, { "extensions": [".ts", ".tsx"] }],
+    "react/function-component-definition": [
+      "error",
+      {
+        "namedComponents": "arrow-function",
+        "unnamedComponents": "arrow-function"
+      }
+    ],
+    "arrow-body-style": "off",
+    "comma-dangle": "off",
+    "import/no-unresolved": "off",
+    "import/extensions": "off"
+  }
 }
