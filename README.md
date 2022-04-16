@@ -1,3 +1,9 @@
+<div align="center" style="background-color:#a89200;color:white;">
+
+### ❗ This project is currently under construction.
+
+</div>
+
 <div align="center">
 
   <!-- <img src="assets/logo.png" alt="logo" width="200" height="auto" /> -->
@@ -45,26 +51,26 @@
 
 # 📔 Table of Contents
 
-- [About the Project](#star2-about-the-project)
+- [About the Project](#🌟-about-the-project)
   <!-- - [Screenshots](#camera-screenshots) -->
-  - [Tech Stack](#space_invader-tech-stack)
-  - [Features](#dart-features)
+  - [Tech Stack](#👾-tech-stack)
+  - [Features](#🎯-features)
     <!-- - [Color Reference](#art-color-reference) -->
     <!-- - [Environment Variables](#key-environment-variables) -->
-- [Getting Started](#toolbox-getting-started)
-  - [Prerequisites](#bangbang-prerequisites)
-  - [Installation](#gear-installation)
+- [Getting Started](#🧰-getting-started)
+  <!-- - [Prerequisites](#bangbang-prerequisites) -->
+  - [Installation](#⚙️-installation)
   <!-- - [Running Tests](#test_tube-running-tests)
   - [Run Locally](#running-run-locally)
   - [Deployment](#triangular_flag_on_post-deployment) -->
-- [Usage](#eyes-usage)
-- [Plan](#compass-plan)
-- [Contributing](#wave-contributing)
-  - [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
+- [Usage](#👀-usage)
+- [Plan](#🧭-plan)
+- [Contributing](#👋-contributing)
+  - [Code of Conduct](#📜-code-of-conduct)
+- [FAQ](#❔-faq)
+- [License](#⚠️-license)
+- [Contact](#🤝-contact)
+- [Acknowledgements](#💎-acknowledgements)
 
 <!-- About the Project -->
 
@@ -191,8 +197,6 @@ Hurricane is an opinionated typescript-based configurable command-line tool for 
 
 ## 🧭 Plan
 
-Here '^' denotes 'done', '$' denotes 'doing' and ' '(empty space) denotes 'todo'.
-
 - [ ] UI
 - [ ] Customizable/Configurable
 - [ ] Multiplexer
@@ -250,7 +254,7 @@ Project Link: [https://github.com/AviAvinav/Hurricane](https://github.com/AviAvi
 
 ## 💎 Acknowledgements
 
-Use this section to mention useful resources and libraries that you have used in your projects.
+This section mentions useful resources and libraries that have been used in this project.
 
 - [Shields.io](https://shields.io/)
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
