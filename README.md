@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Hurricane</h1> -->
+  <!-- <img src="assets/logo.png" alt="logo" width="200" height="auto" /> -->
+  <h1>Hurricane</h1>
 
   <p>
     An Opinionated Command-line for Developers! 
