@@ -1,5 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { Terminal } from 'xterm';
+import pty from 'node-pty';
+import { platform } from 'os';
 
 const Screen = () => {
   const terminalContainer = useRef<HTMLDivElement>(null);
@@ -9,10 +11,11 @@ const Screen = () => {
 
   useEffect(() => {
     terminal.open(terminalContainer.current);
-    terminal.write('Welcome to the terminal!\r\n');
+
+    pty.spawn(platform() === 'win32' ? 'powershell.exe' : 'bash', [], {});
   }, []);
 
-  return <div ref={terminalContainer} />;
+  return <div className="Screen" ref={terminalContainer} />;
 };
 
 export default Screen;
