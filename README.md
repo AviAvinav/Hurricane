@@ -1,7 +1,6 @@
 <div align="center" style="background-color:#a89200;color:white;">
 
 ### ❗ This project is currently under construction.
-###  I won't be able to work properly on this project for sometime due to my exams. I will be active again with this project around July.
 
 </div>
 
