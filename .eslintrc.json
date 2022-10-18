@@ -6,7 +6,6 @@
   "extends": [
     "plugin:react/recommended",
     "plugin:jsx-a11y/recommended",
-    "plugin:prettier/recommended",
     "airbnb"
   ],
   "parser": "@typescript-eslint/parser",
@@ -17,8 +16,9 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "plugins": ["prettier", "react", "@typescript-eslint"],
+  "plugins": ["react", "@typescript-eslint"],
   "rules": {
+    "no-unused-vars": "off",
     "react/react-in-jsx-scope": "off",
     "react/jsx-filename-extension": [1, { "extensions": [".ts", ".tsx"] }],
     "react/function-component-definition": [
