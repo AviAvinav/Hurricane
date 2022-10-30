@@ -5,6 +5,7 @@
   "main": "main.js",
   "scripts": {
     "dev": "vite",
+    "build": "vite build",
     "tauri": "tauri",
     "lint": "eslint . --ext .ts --fix",
     "prettify": "prettier --write .",
@@ -47,6 +48,7 @@
     "typescript": "^4.6.3"
   },
   "dependencies": {
+    "@tauri-apps/api": "^1.1.0",
     "@vitejs/plugin-react": "^1.3.1",
     "node-pty": "^0.10.1",
     "react": "^18.0.0",
